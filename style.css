@@ -1,0 +1,46 @@
+form{
+    padding-bottom: 24px;
+    border-radius: 2%;
+    margin: 30px;
+}
+.row{
+    width: 100%;
+    max-width: 40%;
+    border-radius: 2%;
+    margin: auto;
+    background-color: gray;
+    margin-bottom: 10px;
+
+}
+.btn{
+    margin-top: 35px;
+    border: 20px;
+    border-top: 20px;
+    width: 150px;
+    margin: auto;
+}
+h1 b{
+    text-align: center;
+    color: white
+}
+header .container{
+    padding-bottom: 20px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    background-color: black;
+    border-radius: 2%;
+    max-width: 80%;
+}
+img{
+    height: 40px;
+    align-items: center;
+}
+.form-check-input{
+    margin-bottom: 15px;
+}
